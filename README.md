@@ -1,5 +1,5 @@
 # Pokemon Stadium Minigames
-![Egg emergency online](https://github.com/Ucamo/Pokemon_Stadium_Minigames/blob/master/p6.PNG?raw=true)
+![Egg emergency online](https://raw.githubusercontent.com/Ucamo/Unity_Online_Minigame_Framework/master/p6.png?raw=true)
 
 This is a proof of concept of builiding a boilerplate for Unity using PUN so we could "make a minigame online" the fastest way possible.
 
