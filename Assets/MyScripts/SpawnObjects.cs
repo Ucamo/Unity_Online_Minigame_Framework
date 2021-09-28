@@ -69,12 +69,6 @@ public class SpawnObjects :  MonoBehaviour, IPunObservable {
 		gameStarted=true;
 	}
 
-	/*void Update(){
-		if(gameStarted){
-			txtInfo.text="Index "+index +" (X "+x+" Y "+y+" Z "+z+") countSpawner "+countSpawner+" ServerTimestamp:"+PhotonNetwork.ServerTimestamp;
-		}		
-	}*/
-
 	GameObject GetObjectFromPool(string objToSpawn,string newName=""){
         //Get object from the pool
         foreach(GameObject objInPool in objectPool){
